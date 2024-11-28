@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169436610122",
+    "project_id": "tp-final-dap-3eeba",
+    "storage_bucket": "tp-final-dap-3eeba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169436610122:android:6b595f112dd6db8a41f0b3",
+        "android_client_info": {
+          "package_name": "com.frn1.tp5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxChgnq7PQnurzUHNUA1SZ1_mOyAzHSQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
